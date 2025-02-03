@@ -1,4 +1,4 @@
-https://github.com/ksadov/TalkingHead-1KH modified to preserve audio in the downloaded videos. For more information about the dataset, see the original repository. Download and processing instructions remain the same:
+https://github.com/tcwang0509/TalkingHead-1KH modified to preserve audio in the downloaded videos. For more information about the dataset, see the original repository. Download and processing instructions remain the same:
 
 
 ## Download

@@ -1,2 +1,7 @@
 data/
 .DS_Store
+__pycache__/
+small/
+val/
+train/
+data_list/
